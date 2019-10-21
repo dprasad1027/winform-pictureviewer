@@ -1,0 +1,9 @@
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+E:\School\Tools\WindowsForm_App\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
