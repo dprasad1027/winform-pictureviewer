@@ -16,3 +16,13 @@ E:\School\Tools\WindowsForm_App\winform-pictureviewer\PictureViewer\PictureViewe
 E:\School\Tools\WindowsForm_App\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
 E:\School\Tools\WindowsForm_App\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
 E:\School\Tools\WindowsForm_App\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\de159825\Documents\WinformDev\winform-pictureviewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb

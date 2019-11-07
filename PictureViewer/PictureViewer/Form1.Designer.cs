@@ -126,6 +126,7 @@
             this.backgroundButton.TabIndex = 2;
             this.backgroundButton.Text = "Background Color";
             this.backgroundButton.UseVisualStyleBackColor = true;
+            this.backgroundButton.Click += new System.EventHandler(this.BackgroundButton_Click);
             // 
             // closeButton
             // 
@@ -136,6 +137,7 @@
             this.closeButton.TabIndex = 3;
             this.closeButton.Text = "Close";
             this.closeButton.UseVisualStyleBackColor = true;
+            this.closeButton.Click += new System.EventHandler(this.CloseButton_Click);
             // 
             // openFileDialog1
             // 
